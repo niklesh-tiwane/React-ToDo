@@ -42,3 +42,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media screen and (max-width: 767px) { 
+  input[type=text]{ width: 200px;}
+  button{ width: 30px; height: 30px;font-size: 32px;}
+} 
