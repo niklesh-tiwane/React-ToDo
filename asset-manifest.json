@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/niklesh-tiwane/static/css/main.e3fa599a.chunk.css",
-    "main.js": "/niklesh-tiwane/static/js/main.64e28aa3.chunk.js",
-    "main.js.map": "/niklesh-tiwane/static/js/main.64e28aa3.chunk.js.map",
-    "runtime-main.js": "/niklesh-tiwane/static/js/runtime-main.3d5df897.js",
-    "runtime-main.js.map": "/niklesh-tiwane/static/js/runtime-main.3d5df897.js.map",
-    "static/js/2.6e0d5c69.chunk.js": "/niklesh-tiwane/static/js/2.6e0d5c69.chunk.js",
-    "static/js/2.6e0d5c69.chunk.js.map": "/niklesh-tiwane/static/js/2.6e0d5c69.chunk.js.map",
-    "index.html": "/niklesh-tiwane/index.html",
-    "static/css/main.e3fa599a.chunk.css.map": "/niklesh-tiwane/static/css/main.e3fa599a.chunk.css.map",
-    "static/js/2.6e0d5c69.chunk.js.LICENSE.txt": "/niklesh-tiwane/static/js/2.6e0d5c69.chunk.js.LICENSE.txt"
+    "main.css": "/React-ToDo/static/css/main.e3fa599a.chunk.css",
+    "main.js": "/React-ToDo/static/js/main.64e28aa3.chunk.js",
+    "main.js.map": "/React-ToDo/static/js/main.64e28aa3.chunk.js.map",
+    "runtime-main.js": "/React-ToDo/static/js/runtime-main.c6857b3e.js",
+    "runtime-main.js.map": "/React-ToDo/static/js/runtime-main.c6857b3e.js.map",
+    "static/js/2.6e0d5c69.chunk.js": "/React-ToDo/static/js/2.6e0d5c69.chunk.js",
+    "static/js/2.6e0d5c69.chunk.js.map": "/React-ToDo/static/js/2.6e0d5c69.chunk.js.map",
+    "index.html": "/React-ToDo/index.html",
+    "static/css/main.e3fa599a.chunk.css.map": "/React-ToDo/static/css/main.e3fa599a.chunk.css.map",
+    "static/js/2.6e0d5c69.chunk.js.LICENSE.txt": "/React-ToDo/static/js/2.6e0d5c69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d5df897.js",
+    "static/js/runtime-main.c6857b3e.js",
     "static/js/2.6e0d5c69.chunk.js",
     "static/css/main.e3fa599a.chunk.css",
     "static/js/main.64e28aa3.chunk.js"
